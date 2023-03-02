@@ -1,5 +1,5 @@
 # JS-Arena
-JS Core Concepts and Practices Coding Problems in JavaScript
+Practices Coding Problems in JavaScript
 
 ## Javascript Notes & Resources
   - Core Javascript Concepts [[PDF](https://github.com/deltanode/JS-Arena/blob/main/js-notes-resources/namaste_javascript/namaste-javascript.pdf)] - [Link](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html)
@@ -10,7 +10,7 @@ JS Core Concepts and Practices Coding Problems in JavaScript
   - Scope
   - THIS
 
-## [JS Code Challanges] [➥](https://github.com/deltanode/JS-Arena/tree/main/code-challenges)
+## [Javascript Code Challanges] [➥](https://github.com/deltanode/JS-Arena/tree/main/code-challenges)
 
 ### [Basic](/code-challenges/01-basic)
  - Basic mathematical operations like swapping two numbers, square root of numbers
