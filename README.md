@@ -34,12 +34,12 @@ Practices Coding Problems in JavaScript
  - make a simple calculator using switch case 
  - print fibonacci sequence
  
- ### [String](/code-challenges/02-string)
+ ### [String ➥](/code-challenges/02-string)
  - replace characters of string
  - reverse a string using for loop 
  - sort words in alphabetical order
  
-### [Array](/code-challenges/03-array)
+### [Array ➥](/code-challenges/03-array)
  - Find the minimum and maximum element in an array
  - Write a program to reverse the array
  - Find a peak element which is not smaller than its neighbors
