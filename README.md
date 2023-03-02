@@ -1,4 +1,4 @@
-# JS-Arena
+# JavaScript-Arena
 Practices Coding Problems in JavaScript
 
 ## Javascript Notes & Resources
