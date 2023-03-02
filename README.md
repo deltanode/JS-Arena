@@ -1,2 +1,2 @@
-# JS-Core-Concepts
-JS Core Concepts and Best Practices
+# JS-Arena
+JS Core Concepts and Practices Arena
