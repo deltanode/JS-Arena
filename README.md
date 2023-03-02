@@ -12,7 +12,7 @@ Practices Coding Problems in JavaScript
 
 ## [Javascript Code Challanges] [➥](https://github.com/deltanode/JS-Arena/tree/main/code-challenges)
 
-### [Basic Fundamentals](/code-challenges/01-basic)
+### [Programming Fundamentals](/code-challenges/01-programming-fundamentals)
  - Basic mathematical operations like swapping two numbers, square root of numbers
  - Checking any number’s nature if it is positive, negative, or zero
  - Generating a random number
