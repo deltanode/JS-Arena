@@ -50,3 +50,13 @@ Practices Coding Problems in JavaScript
  - Subarray with given Sum
  - Move all the negative elements to one side of the array
  - Find the Union and Intersection of the two sorted arrays
+
+### [Polyfill in JS ➥](/code-challenges/03-polyfill)
+ - Polyfill of Array Method: forEach()
+ - Polyfill of Array Method: Map()
+ - Polyfill of Array Method: Reduce()
+ - Polyfill of Array Method: Filter()
+ - Polyfill of Array Method: splice()
+ - Polyfill of call()
+ - Polyfill of bind()
+ - Polyfill of apply()
