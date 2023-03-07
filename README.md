@@ -7,13 +7,13 @@ Practices Coding Problems in JavaScript
 - Namaste Javascript - Notes [[PDF](https://github.com/deltanode/JS-Arena/blob/main/js-notes-resources/namaste_javascript/namaste-javascript.pdf)] - [Link](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html)
 - The Ultimate JavaScript - Notes [[PDF](https://github.com/deltanode/JS-Arena/blob/main/js-notes-resources/js_overview_notes/JS_Notes_Combined.pdf)] - [Link](https://github.com/deltanode/JS-Arena/tree/main/js-notes-resources/js_overview_notes)
 
-## JS Core Concepts [➥](https://github.com/deltanode/JS-Arena/tree/main/js-core-concepts)
+## [JS Core Concepts ➥](https://github.com/deltanode/JS-Arena/tree/main/js-core-concepts)
 
 - Execution Context
 - Scope
 - THIS
 
-## [Javascript Code Challanges] [➥](https://github.com/deltanode/JS-Arena/tree/main/code-challenges)
+## Javascript Code Challanges [➥](https://github.com/deltanode/JS-Arena/tree/main/code-challenges)
 
 ### [Programming Fundamentals](/code-challenges/01-programming-fundamentals)
 
