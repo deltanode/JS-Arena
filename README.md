@@ -4,8 +4,8 @@ Practices Coding Problems in JavaScript
 
 ## Javascript Notes & Resources
 
-- Core Javascript Concepts [[PDF](https://github.com/deltanode/JS-Arena/blob/main/js-notes-resources/namaste_javascript/namaste-javascript.pdf)] - [Link](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html)
-- Short Overview [[PDF](https://github.com/deltanode/JS-Arena/blob/main/js-notes-resources/js_overview_notes/JS_Notes_Combined.pdf)] - [Link](https://github.com/deltanode/JS-Arena/tree/main/js-notes-resources/js_overview_notes)
+- Namaste Javascript [[PDF](https://github.com/deltanode/JS-Arena/blob/main/js-notes-resources/namaste_javascript/namaste-javascript.pdf)] - [Link](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html)
+- Youtube - Code With Harry [[PDF](https://github.com/deltanode/JS-Arena/blob/main/js-notes-resources/js_overview_notes/JS_Notes_Combined.pdf)] - [Link](https://github.com/deltanode/JS-Arena/tree/main/js-notes-resources/js_overview_notes)
 
 ## JS Core Concepts [➥](https://github.com/deltanode/JS-Arena/tree/main/js-core-concepts)
 
