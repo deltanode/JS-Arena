@@ -8,7 +8,7 @@ Practices Coding Problems in JavaScript
 | --- | --- | --- |
 | Namaste Javascript | Notes [[PDF](https://github.com/deltanode/JavaScript-Arena/blob/main/js-notes-resources/namaste_javascript_notes/namaste-javascript.pdf)] | [Link](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html) |
 | The Ultimate JavaScript | Notes [[PDF](https://github.com/deltanode/JavaScript-Arena/blob/main/js-notes-resources/the_ultimate_javascript_notes/JS_Notes_Combined.pdf)] | [Link](https://github.com/deltanode/JavaScript-Arena/tree/main/js-notes-resources/the_ultimate_javascript_notes) |
-- [Question on JS Core Concepts 🔗](https://github.com/deltanode/JS-Arena/tree/main/js-core-concepts)
+- [Questions: JS Core Concepts 🔗](https://github.com/deltanode/JS-Arena/tree/main/js-core-concepts)
 - [JS Interview Questions 🔗](https://github.com/deltanode/JavaScript-Arena/tree/main/interview-questions)
 
 
