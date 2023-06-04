@@ -8,8 +8,9 @@ Practices Coding Problems in JavaScript
 | --- | --- | --- | --- |
 | 1. | Namaste Javascript | Notes [[PDF](https://github.com/deltanode/JavaScript-Arena/blob/main/js-notes-resources/namaste_javascript_notes/namaste-javascript.pdf)] | [Link](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html) |
 | | The Ultimate JavaScript | Notes [[PDF](https://github.com/deltanode/JavaScript-Arena/blob/main/js-notes-resources/the_ultimate_javascript_notes/JS_Notes_Combined.pdf)] | [Link](https://github.com/deltanode/JavaScript-Arena/tree/main/js-notes-resources/the_ultimate_javascript_notes) |
-| 2. | [Questions: JS Core Concepts 🔗](https://github.com/deltanode/JS-Arena/tree/main/js-core-concepts) | | |
-| 3. | [JS Interview Questions 🔗](https://github.com/deltanode/JavaScript-Arena/tree/main/interview-questions) | | |
+| 2. | [Questions: JS Core Concepts 🔗](https://github.com/deltanode/JS-Arena/tree/main/js-core-concepts) | | [Practice1](https://github.com/lydiahallie/javascript-questions#1-whats-the-output) / [Practice2](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions#coding-questions) |
+| 3. | [JS Interview Questions 🔗](https://github.com/deltanode/JavaScript-Arena/tree/main/interview-questions) | | [Link1](https://github.com/sudheerj/javascript-interview-questions#table-of-contents) / [Link2](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions#123-javascript-interview-questions) |
+| 4. | Clean Code (Javascript) | | [Link1](https://github.com/airbnb/javascript#airbnb-javascript-style-guide-) / [Link1](https://github.com/ryanmcdermott/clean-code-javascript#clean-code-javascript) |
 
 
 ## Javascript Code Challanges [🔗](https://github.com/deltanode/JS-Arena/tree/main/code-challenges)
