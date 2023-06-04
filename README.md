@@ -4,12 +4,12 @@ Practices Coding Problems in JavaScript
 
 ## Javascript Notes & Resources
 
-| Source | PDF | Link |
-| --- | --- | --- |
-| Namaste Javascript | Notes [[PDF](https://github.com/deltanode/JavaScript-Arena/blob/main/js-notes-resources/namaste_javascript_notes/namaste-javascript.pdf)] | [Link](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html) |
-| The Ultimate JavaScript | Notes [[PDF](https://github.com/deltanode/JavaScript-Arena/blob/main/js-notes-resources/the_ultimate_javascript_notes/JS_Notes_Combined.pdf)] | [Link](https://github.com/deltanode/JavaScript-Arena/tree/main/js-notes-resources/the_ultimate_javascript_notes) |
-- [Questions: JS Core Concepts 🔗](https://github.com/deltanode/JS-Arena/tree/main/js-core-concepts)
-- [JS Interview Questions 🔗](https://github.com/deltanode/JavaScript-Arena/tree/main/interview-questions)
+|# | Source | PDF | Link |
+| --- | --- | --- | --- |
+| 1. | Namaste Javascript | Notes [[PDF](https://github.com/deltanode/JavaScript-Arena/blob/main/js-notes-resources/namaste_javascript_notes/namaste-javascript.pdf)] | [Link](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html) |
+| | The Ultimate JavaScript | Notes [[PDF](https://github.com/deltanode/JavaScript-Arena/blob/main/js-notes-resources/the_ultimate_javascript_notes/JS_Notes_Combined.pdf)] | [Link](https://github.com/deltanode/JavaScript-Arena/tree/main/js-notes-resources/the_ultimate_javascript_notes) |
+| 2. | [Questions: JS Core Concepts 🔗](https://github.com/deltanode/JS-Arena/tree/main/js-core-concepts) | | |
+| 3. | [JS Interview Questions 🔗](https://github.com/deltanode/JavaScript-Arena/tree/main/interview-questions) | | |
 
 
 ## Javascript Code Challanges [🔗](https://github.com/deltanode/JS-Arena/tree/main/code-challenges)
