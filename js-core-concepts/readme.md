@@ -59,3 +59,25 @@ Parameters:
 </blockquote><br>
 </details>
 <!-- *******************************-->
+
+<details>
+<summary>Convert Number to String, String to Number & String to Array, Array to String & Array to Object, Object to Array ? </summary>
+<br>
+<blockquote> 
+
+`Number to String`: toString()
+<br/>
+`String to Number`: parseInt()
+<br/><br/>
+`Array to String`: toString() or join()
+<br/>
+`String to Array`: split()
+<br/><br/>
+`Array to Object`: reduce() or using destructuring  Eg: {...arr} 
+<br/>
+`Object to Array`: Object.keys() & map() Or Object.entries()
+</blockquote> <br>
+</details>
+
+
+<!-- *******************************-->
