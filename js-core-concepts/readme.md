@@ -69,13 +69,22 @@ Parameters:
 <br/>
 `String to Number`: parseInt()
 <br/><br/>
+    
 `Array to String`: toString() or join()
 <br/>
 `String to Array`: split()
 <br/><br/>
+    
 `Array to Object`: reduce() or using destructuring  Eg: {...arr} 
 <br/>
 `Object to Array`: Object.keys() & map() Or Object.entries()
+<br/><br/>
+    
+`Array to Set`: new set(arr)
+<br/>
+`Set to Array`: Array.form(set) Or [...set]
+<br/><br/>
+
 </blockquote> <br>
 </details>
 
